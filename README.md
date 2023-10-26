@@ -1,3 +1,7 @@
+#screenshot of both tables on the ReadMe
+![Screenshot 2023-10-26 120521](https://github.com/Arun1522/wine-statistics/assets/91198312/cbd2b6fa-bd64-479c-bebe-5e0615ee9d0c)
+
+
 # Flavanoids and Gamma Statistics
 
 This is a simple React web application that calculates and displays class-wise statistics for Flavanoids and Gamma values of a wine dataset.
